@@ -7,7 +7,7 @@ By using the software, you agree to all of the terms and conditions below.
 
 #### Copyright License
 
-The licensor grants you a non-exclusive, royalty-free, worldwide license to use, copy, distribute, make available, and prepare derivative works of the software, in each case subject to the limitations and conditions below.
+The licensor grants you a non-exclusive, royalty-free, worldwide, sublicensable, transferable license to use, copy, distribute, make available, and prepare derivative works of the software, in each case subject to the limitations and conditions below.
 
 #### Limitations
 

@@ -1,7 +1,7 @@
-Abou Source Available License 1.0 (ASALv1) Agreement
+Abou Source Available License 2.0 (ASALv2) Agreement
 =====================================================
 
-*Last Update: June 11, 2026*
+*Last Update: June 12, 2026*
 
 Acceptance
 ----------
@@ -42,7 +42,7 @@ Your Licenses: means all the Licenses granted to You for the Software under this
 License
 -------
 
-The Licensor grants You a non-exclusive, royalty-free, worldwide license to use, copy, distribute, make available, and prepare derivative works of the Software, in each case subject to the limitations and conditions below.
+The Licensor grants You a non-exclusive, royalty-free, worldwide, sublicensable, transferable license to use, copy, distribute, make available, and prepare derivative works of the Software, in each case subject to the limitations and conditions below.
 
 Limitations
 -----------
