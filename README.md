@@ -11,7 +11,7 @@ from Elasic License 2.0 which are definitely not even remotely copyleft. Right?
 
 As a result, these licenses a relatively more permissve than EL and RSAL, but will honestly be labeled a a source-availabe copyleft license which do not explicitly prohibit SaaS.
 
-The ABALv2 (based on RSALv2) does have a clause that allows the licensor to modify the terms whenever they want, I may upload a v3 and remove that clause, but at this point, I'm not really sure right now.
+The ASALv2 (based on RSALv2) does have a clause that allows the licensor to modify the terms whenever they want, I may upload a v3 and remove that clause, but at this point, I'm not really sure right now.
 
 The Plastic License is based on Elastic v2.
 
