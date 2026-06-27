@@ -42,7 +42,7 @@ Your Licenses: means all the Licenses granted to You for the Software under this
 License
 -------
 
-The Licensor grants You a non-exclusive, royalty-free, worldwide, sublicensable, transferable license to use, copy, distribute, make available, and prepare derivative works of the Software, in each case subject to the limitations and conditions below.
+The Licensor grants You a non-exclusive, royalty-free, worldwide, non-sublicensable, non-transferable license to use, copy, distribute, make available, and prepare derivative works of the Software, in each case subject to the limitations and conditions below.
 
 Limitations
 -----------
