@@ -1,7 +1,7 @@
-Abou Source Available License 2.0 (ASALv2) Agreement
+Abou Source Available License 3.0 (ASALv3) Agreement
 =====================================================
 
-*Last Update: June 21, 2026*
+*Last Update: June 27, 2026*
 
 Acceptance
 ----------

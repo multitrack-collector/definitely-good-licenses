@@ -1,4 +1,4 @@
-Plastic License 1.0
+Plastic License 2.0
 -------------------
 
 #### Acceptance
