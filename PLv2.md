@@ -1,6 +1,8 @@
 Plastic License 2.0
 -------------------
 
+Copyright <<YEAR>> <<LICENSOR NAME>>
+
 #### Acceptance
 
 By using the software, you agree to all of the terms and conditions below.
