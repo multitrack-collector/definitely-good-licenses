@@ -1,7 +1,7 @@
 Abou Source Available License 3.0 (ASALv3) Agreement
 =====================================================
 
-*Last Update: June 27, 2026*
+*Last Update: August 02, 2026*
 
 Acceptance
 ----------
@@ -17,7 +17,7 @@ The terms below have the meanings set forth below for purposes of this Agreement
 Definitions
 -----------
 
-Agreement: this Abou Source Available License 2.0 Agreement.
+Agreement: this Abou Source Available License 3.0 Agreement.
 
 Control: ownership, directly or indirectly, of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.
 
