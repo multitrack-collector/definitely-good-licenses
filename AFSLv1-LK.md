@@ -1,5 +1,5 @@
-Abou Fair Source License 1.0 Non-Amendable (AFSLv1-NA) Agreement
-=================================================================
+Abou Fair Source License 1.0 with License Key (AFSLv1-LK) Agreement
+===================================================================
 
 Last Update: August 02, 2026
 
@@ -10,12 +10,14 @@ This Agreement sets forth the terms and conditions on which the Licensor makes a
 
 If You are receiving the Software on behalf of Your Company, You represent and warrant that You have the authority to agree to this Agreement on behalf of such entity.
 
+The Licensor reserves the right to update this Agreement from time to time.
+
 The terms below have the meanings set forth below for purposes of this Agreement:
 
 Definitions
 -----------
 
-Agreement: this Abou Fair Source License 1.0 Non-Amendable Agreement.
+Agreement: this Abou Fair Source License 1.0 with License Key Agreement.
 
 Control: ownership, directly or indirectly, of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.
 
@@ -48,6 +50,8 @@ Limitations
 You may not make the functionality of the Software or a Modified version available to third parties as a service or distribute the Software or a Modified version in a manner that makes the functionality of the Software available to third parties.
 
 Making the functionality of the Software or Modified version available to third parties includes, without limitation, enabling third parties to interact with the functionality of the Software or Modified version in distributed form or remotely through a computer network, offering a product or service, the value of which entirely or primarily derives from the value of the Software or Modified version, or offering a product or service that accomplishes for users the primary purpose of the Software or Modified version.
+
+You may not move, change, disable, or circumvent the license key functionality in the software, and you may not remove or obscure any functionality in the software that is protected by the license key.
 
 You may not alter, remove, or obscure any licensing, copyright, or other notices of the Licensor in the Software. Any use of the Licensor's Trademarks is subject to applicable law.
 
