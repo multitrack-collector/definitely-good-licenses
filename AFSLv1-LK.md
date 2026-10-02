@@ -1,7 +1,7 @@
 Abou Fair Source License 1.0 with License Key (AFSLv1-LK) Agreement
 ===================================================================
 
-Last Update: August 02, 2026
+Last Update: October 01, 2026
 
 Acceptance
 ----------
@@ -95,7 +95,7 @@ If You are located in Europe, United Kingdom, Middle East or Africa, the Agreeme
 Grant of Future License
 -----------------------
 
-The Licensor hereby irrevocably grants you an additional license to use the Software under the Apache License, Version 2.0 that is effective on the second anniversary of the date we make the Software available. On or after that date, you may use the Software under the Apache License, Version 2.0, in which case the following will apply:
+The Licensor hereby irrevocably grants You an additional license to use the Software under the Apache License, Version 2.0 that is effective on the second anniversary of the date the Licensor makes the Software available. On or after that date, You may use the Software under the Apache License, Version 2.0, in which case the following will apply:
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.
 
